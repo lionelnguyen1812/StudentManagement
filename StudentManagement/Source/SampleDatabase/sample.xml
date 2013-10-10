@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<sample>
+	<students>
+		<student id="b01499">
+			<classid>c1209i</classid>
+			<name>Nguyen Thi Van Anh</name>
+			<address>New-york</address>
+		</student>
+		<student id="b01512">
+			<classid>c1209i</classid>
+			<name>Nguyen Duc Chung</name>
+			<address>Boston</address>
+		</student>
+		<student id="b01508">
+			<classid>c1207g</classid>
+			<name>Ngo Linh Dieu</name>
+			<address>Dallas</address>
+		</student>
+		<student id="b01501">
+			<classid>c1207g</classid>
+			<name>Le Manh Hung</name>
+			<address>Houston</address>
+		</student>
+		<student id="b01487">
+			<classid>c1209i</classid>
+			<name>Nguyen Cong Hung</name>
+			<address>Kansas</address>
+		</student>
+		<student id="b01505">
+			<classid>c1209i</classid>
+			<name>Ngo Minh Hoa</name>
+			<address>Paris</address>
+		</student>
+		<student id="b01490">
+			<classid>c1207g</classid>
+			<name>Le Huu Hoang Minh</name>
+			<address>Marseille</address>
+		</student>
+		<student id="b01492">
+			<classid>t1310i</classid>
+			<name>Tran Hoai Nam</name>
+			<address>Lyon</address>
+		</student>
+		<student id="b01493">
+			<classid>t1310i</classid>
+			<name>Nguyen Binh Son</name>
+			<address>Toulouse</address>
+		</student>
+		<student id="b01497">
+			<classid>t1310i</classid>
+			<name>Nguyen The Son</name>
+			<address>Bordeaux</address>
+		</student>
+	</students>
+
+	<courses>
+		<course id="c1209i">
+			<name>FAT2-C1209i</name>
+			<timeslot>I</timeslot>
+			<room>L3</room>
+			<teacher>Nguyen Khac Nhat</teacher>
+		</course>
+		<course id="c1207g">
+			<name>FAT2-C1207g</name>
+			<timeslot>G</timeslot>
+			<room>L2</room>
+			<teacher>Pham Anh Doi</teacher>
+		</course>
+		<course id="c1310i">
+			<name>FAT2-C1310i</name>
+			<timeslot>I</timeslot>
+			<room>L4</room>
+			<teacher>Tran Thu Van</teacher>
+		</course>
+	</courses>
+</sample>
